@@ -69,6 +69,22 @@ The `0x1314...` pattern appears only in SKS tasks at crash time.
 - MacBook Pro (M2 Max)
 - MacBook Pro (M4 Max)
 
+## Building
+
+### macOS
+
+```bash
+clang -framework IOKit -framework CoreFoundation sep_panic_poc.c -o sep_panic
+./sep_panic
+```
+
+### iOS
+
+1. Open `SEPTest/SEPTest.xcodeproj` in Xcode
+2. Select your iOS device
+3. Build and run
+4. Tap **TRIGGER SEP PANIC** button
+
 ## Files
 
 - `sep_panic_poc.c` - Standalone C PoC

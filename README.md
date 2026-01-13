@@ -2,8 +2,6 @@
 
 **Author:** [zeroxjf](https://x.com/zeroxjf)
 
-**CVE:** Pending
-
 ## Warning
 
 This code triggers a kernel panic and **will crash your device**. Use at your own risk. The author is not responsible for any data loss, bootloops, or damage to your device.

